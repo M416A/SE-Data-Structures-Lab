@@ -1,4 +1,4 @@
-# Data Structures & Algorithms
+## Data Structures Lab
 
 * You will find the code files for our **Data Structures Lab** here.
 

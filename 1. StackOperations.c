@@ -5,16 +5,14 @@
         > PEEK
         > DISPLAY
     
-    AUTHOR:
-    Name: D. Kasi Pavan Kumar
-    Roll No: C61
-    ID: TUS3F181972 
+    @Author: D. Kasi Pavan Kumar
+    @Date: 04 August 2019
 */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-#define SIZE 16
+#define SIZE 32
 
 // This method pushes (insert) data item into stack
 int PUSH(int dataItem, int stack[], int *top) {
@@ -120,7 +118,6 @@ int main() {
             printf("\n\nClosing the program...");
             exit(1);
     }
-
     getch();
     return 0;
 }

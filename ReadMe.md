@@ -16,3 +16,7 @@ All the experiments should be uploaded by **26 October 2019** on our [ERP](https
 6. Double Linked List
 7. Binary Search Tree
 8. Graphs
+
+---
+
+&copy; Code Plus Coffee

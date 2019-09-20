@@ -10,3 +10,9 @@ All the experiments should be uploaded by **26 October 2019** on our [ERP](https
 
 1. Stack Operations
 2. Infix to Postfix Conversion
+3. Circular Queue
+4. Double Ended Queue
+5. Single Linked List
+6. Double Linked List
+7. Binary Search Tree
+8. Graphs

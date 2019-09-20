@@ -122,5 +122,5 @@ int main() {
     }
 
     getch();
-    return 1;
+    return 0;
 }

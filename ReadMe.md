@@ -19,4 +19,4 @@ All the experiments should be uploaded by **26 October 2019** on our [ERP](https
 
 ---
 
-&copy; Code Plus Coffee
+&copy; Code Plus Coffee • 2019

@@ -18,6 +18,9 @@
 6. Double Linked List
 7. Binary Search Tree
 8. Graphs
+9. Searching
+10. Sorting
+11. Project
 
 ---
 

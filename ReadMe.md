@@ -24,4 +24,4 @@
 
 ---
 
-&copy; `2019 • Code Plus Coffee`
+`2019 • Code Plus Coffee`

@@ -24,4 +24,4 @@
 
 ---
 
-`2019 • Code Plus Coffee`
+`Code Plus Coffee • 2019`
